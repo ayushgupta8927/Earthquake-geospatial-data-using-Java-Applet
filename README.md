@@ -10,3 +10,5 @@ Follow the below steps to view the project:
 1. Download all the files and folders of this Repo
 2. Open the src folder Go to module 6
 3. Run the EarthquakeCityMap.java file as Application
+
+![volcano.jpg](https://github.com/ayushgupta8927/Volcanic-geospatial-data-using-Java-Applet/blob/main/volcano.jpg?raw=true)
