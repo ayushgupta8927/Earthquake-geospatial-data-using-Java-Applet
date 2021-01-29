@@ -1,6 +1,6 @@
-# Volcanic-geospatial-data-using-Java-Applet
+# Earthquake-geospatial-data-using-Java-Applet
 
-# This project consists of geospatial map which will demonstrate the data of the volcanoes (like their magnitude, Distance from the nearest big city, country, and location)
+# This project consists of geospatial map which will demonstrate the data of the Earthquakes (like their magnitude, Distance from the nearest big city, country, and location)
 This was a final prject of one of Online course From University of California, San Diego in an online e-learning platform of coursera
 
 Follow the below steps to view the project:
